@@ -262,9 +262,9 @@ Avg Monthly Income = AVERAGE(HR_Analytics[MonthlyIncome])
 
 ---
 
-## 📝 License
+## 📄 License
 
-This project is available for educational and portfolio purposes.
+This project is open source and available under the MIT License.
 
 ---
 
@@ -308,3 +308,4 @@ Give a ⭐ if this project helped you learn something new!
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 </div>
+
